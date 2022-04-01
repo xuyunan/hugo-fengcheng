@@ -2,3 +2,17 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'hugo-fengcheng'
+
+[markup]
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = true
+    hl_Lines = ""
+    lineAnchors = ""
+    lineNoStart =1
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = true
+    style = "witchhazel"
+    tabWidth = 4  

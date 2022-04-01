@@ -1,14 +1,11 @@
 baseURL = ""
 languageCode = "en-us"
-title = "Liste"
+title = "Hugo-FengCheng"
 disableKinds = ["section", "categories", "tags"]
 disqusShortname = ""
-pygmentsCodeFences = false
-pygmentsUseClasses = false
 paginate = 9999
 minify = true
 disableHugoGeneratorInject = true
-
 
 [taxonomies]
   tag = "tags"
@@ -29,7 +26,7 @@ disableHugoGeneratorInject = true
     disable = true
 
 [Author]
-  name = "Liste"
+  name = "xuyunan"
 
 [params]
   description = "Minimalistic Hugo blogging theme"
@@ -43,7 +40,7 @@ disableHugoGeneratorInject = true
   github = ""
   facebook = ""
   og_image = ""
-  sitename = "Liste"
+  sitename = "FengCheng"
   twitter = ""
 
 [permalinks]
