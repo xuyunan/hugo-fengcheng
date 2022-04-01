@@ -84,8 +84,15 @@ code, pre {
 //     border: none;
 // }
 
+// 连续几段代码之间添加缝隙
+
 .highlight div {
     overflow-x: scroll;
+    margin: 0.1rem 0;
+}
+
+.highlight pre {
+    margin: 0.8rem 0;
 }
 
 ul {
